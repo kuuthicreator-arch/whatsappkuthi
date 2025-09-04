@@ -1,0 +1,5 @@
+quart==0.19.6
+requests==2.31.0
+firebase-admin==6.5.0
+gunicorn==21.2.0
+uvicorn==0.23.2
